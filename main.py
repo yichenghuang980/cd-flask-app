@@ -10,7 +10,6 @@ def hello():
     """Return a friendly HTTP greeting."""
     return 'Hello I like to make AI Apps'
 
-# enter a name
 @app.route('/name/<value>')
 def name(value):
     val = {"value": value}
