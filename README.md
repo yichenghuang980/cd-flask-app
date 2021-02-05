@@ -2,7 +2,7 @@
 This repo contains source code on how to set up continuous delivery of flask app on Google Cloud Platform. Any push action is monitored by a predefined trigger so that once changes are made to the repo, they will be delpoyed automatically.
 
 ## Demo Video
-[![](http://img.youtu.be/vyJf69DbSKY/0.jpg)](https://youtu.be/vyJf69DbSKY "Continuous Delivery of Flask App on GCP")
+[![](http://img.youtube.com/vi/vyJf69DbSKY/0.jpg)](https://youtu.be/vyJf69DbSKY "Continuous Delivery of Flask App on GCP")
 
 ## To replicate this project and add new routes
 Run the following command in your GCP shell:
